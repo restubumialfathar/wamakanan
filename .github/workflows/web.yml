@@ -2,7 +2,7 @@ name: Gh-Pages
 
 on:
   push:
-    branches: [ web ]
+    branches: [web]
 
 jobs:
   build:
